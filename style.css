@@ -227,7 +227,7 @@ html,body{
 .child img{
     height: 100%;
 }
-@media (max-width:600px){
+@media (max-width:768px){
     #page1 h1{
         font-size: 15.6vw;
         text-transform: uppercase;
@@ -341,7 +341,7 @@ html,body{
          z-index: 0 ;
     }
     .child{
-        height:30vh;
+        height:50vh;
         width:88vw;
         /* background-color: rgb(190, 242, 242); */
         /* background-color: aqua; */
